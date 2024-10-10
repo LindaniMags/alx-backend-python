@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-takes a string k and an int OR float v as arguments. 
+takes a string k and an int OR float v as arguments.
 """
 from typing import Union, Tuple
 
